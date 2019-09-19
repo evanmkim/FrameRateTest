@@ -1,0 +1,12 @@
+#ifndef GPIOTRIGGERMODE
+#define GPIOTRIGGERMODE
+
+
+
+
+
+
+
+
+#endif // GPIOTRIGGERMODE
+
